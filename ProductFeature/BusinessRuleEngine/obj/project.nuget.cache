@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JS2OJhzyBB+Gxj/fIVw5yIKCUoCIjFg6Uwdtg6SaWLlNCXcV0aSPUTEkIPVur0Occs0BPgq5wkcudh1VqtyrOQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetCore\\MVC\\ProductFeature\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
